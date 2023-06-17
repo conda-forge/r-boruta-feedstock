@@ -1,11 +1,11 @@
-About r-boruta
-==============
+About r-boruta-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-boruta-feedstock/blob/main/LICENSE.txt)
 
 Home: https://notabug.org/mbq/Boruta/
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-boruta-feedstock/blob/main/LICENSE.txt)
 
 Summary: An all relevant feature selection wrapper algorithm. It finds relevant features by comparing original attributes' importance with importance achievable at random, estimated using their permuted copies (shadows).
 
